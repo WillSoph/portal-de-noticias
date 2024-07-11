@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
+  <img alt="Logo - Rocketseat" src="https://github.com/rocketseat-education/portal-de-noticias/raw/55edb2232e4fd1e7367284f8c3a0910b6b886a43/.github/logo.png" width="200px" />
 </p>
 
 <p align="center">
@@ -19,9 +19,8 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="https://github.com/rocketseat-education/portal-de-noticias/raw/55edb2232e4fd1e7367284f8c3a0910b6b886a43/.github/preview.png" width="60%">
 </p>
-
 
 ## 🚀 Tecnologias
 
